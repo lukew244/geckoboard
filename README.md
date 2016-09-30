@@ -1,5 +1,7 @@
 # Geckoboard-integration
 
+https://lukew.geckoboard.com/dashboards/085B69AC48F33A3B
+
 A simple node.js app that tracks USD-bitcoin exchange rate and pushes to a Geckoboard. Built in a few hours and designed to be as lightweight as possible, the app uses a database (RethinkDB with Thinky ORM) to store data and allow tracking over time.
 
 Key goals of the design:
